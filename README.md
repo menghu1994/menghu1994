@@ -26,11 +26,6 @@
 	<img src="https://img.shields.io/badge/-Stylus-333333?style=flat&logo=Stylus&logoColor=white%22%20alt=%22VUE%22" alt="Stylus">
 	<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="Javascript">
 	<img src="https://img.shields.io/badge/-VUE-4FC08D?style=flat&logo=vue.js&logoColor=white%22%20alt=%22VUE%22" alt="VUE">
-	<img src="https://img.shields.io/badge/-vuecli-blue" alt="vue-cli">
-	<img src="https://img.shields.io/badge/-axios-yellow" alt="axios">
-	<img src="https://img.shields.io/badge/-betterScroll-ff69b4" alt="better-scroll">
-	<img src="https://img.shields.io/badge/-vueRouter-lightgrey" alt="vue-router">
-	<img src="https://img.shields.io/badge/-elementUI-critical" alt="elementUI">
-	<img src="https://img.shields.io/badge/-SVN-9cf" alt="SVN">
-	<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white%22%20alt=%22VUE%22" alt="Github">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Angular-fff?logo=Angular&color=%23E80E38">
 </p>
+
